@@ -21,3 +21,6 @@ A pre-trained transformer model was fine-tuned on the dataset. The exact checkpo
 Reasons for using a transformer model:
 - Although not an impossibility, training any classical model would have been a challenge since the question pairs were quite nuanced. 
 - Even with a successful training, it would be hard for a classical NLP model to beat a transformer model's performance.
+
+## License
+Distributed under the MIT License. See LICENSE.txt for more information.
